@@ -1,0 +1,57 @@
+{
+"environment":"ENTER URL HERE",
+"agentStringMobile":"Apple-iPhone5C1",
+"agentStringDesktop": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36",
+"page":[ 
+	{
+    "name": "home",
+    "path": "/"
+	}
+],
+"viewports": [
+      {
+        "device": "iphone5-portrait",
+        "viewport": {"width": 320}
+      },
+      {
+        "device": "iphone5-landscape",
+        "viewport": {"width": 568}
+      },
+      {
+        "device": "ipad3-portrait",
+        "viewport": {"width": 768}
+      },
+      {
+        "device": "ipad3-landscape",
+        "viewport": {"width": 1024}
+      },
+      {
+        "device": "desktop-standard",
+        "viewport": {"width": 1366}
+      },
+      {
+        "device": "htc-one-portrait",
+        "viewport": {"width": 360}
+      },
+      {
+        "device": "htc-one-landscape",
+        "viewport": {"width": 640}
+      },
+      {
+        "device": "google-nexus-7-portrait",
+        "viewport": {"width": 603}
+      },
+      {
+        "device": "google-nexus-7-landscape",
+        "viewport": {"width": 966}
+      },
+      {
+        "device": "google-nexus-10-portrait",
+        "viewport": {"width": 800}
+      },
+      {
+        "device": "google-nexus-10-landscape",
+        "viewport": {"width": 1280}
+      }    
+    ]
+}
